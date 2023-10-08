@@ -15,9 +15,10 @@
 
 ## Projects and Portfolio
 
+- Folder syncing software for keeping password management files synced between devices without trusting a third-party (cloud services).
+- Daily budget app that takes salary and expenses and gives you a daily amount, allowing you to track transactons with cashback/reward percentage considered. 
 *more coming soon!*
-Current personal project is a folder syncing software for keeping password management files synced between devices without the use of third-party cloud services.
-Will post here when more progress is made
+
 
 ## About Me
 - Born, raised, and based in San Diego. 
