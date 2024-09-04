@@ -16,7 +16,7 @@ Easily view turn order, NPC health and stats, status effects, etc.\
 Add or remove combatants at any point; combatants removed automatically when killed.
 
 ## Contact
-<img width="897" alt="contact_dark" src="https://github.com/rbfast/rbfast/assets/144961351/0f5dc07d-bd91-4fad-a09d-83543d473eb9">
+<img width="897" alt="msgme" src="https://github.com/user-attachments/assets/26b2ab6c-349f-497c-a698-4c579a188525">
 
 
 *Not on social media, including Linkin.* \
