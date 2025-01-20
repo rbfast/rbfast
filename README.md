@@ -22,19 +22,11 @@ Add or remove combatants at any point; combatants removed automatically when kil
 *Not on social media, including Linkin.* \
 iMessage Contact Key public verification code: `APKTIDzAPVi2x4ZVhxNW8cp-J0QANYJsfp72vb722zXJXvBb5ooQ`
 
-## About Reilly
-### Hobbies
-- Astronomy
-- Drones
-- Laserdisks
-- CNC plasma cutting
-### Gear
+## Gear
 Core i-7 12700K 3.6 GHz.\
 EVGA XC6 BLACK GAMING GeForce RTX 3080 10GB.\
 Corsair Vengeance 32 GB (2 x 16 GB) DDR5-4800.\
 Asus ROG STRIX Z690-F.\
 NZXT Kraken X53.\
 *But I usually just use my MacBook anyways*
-
-<img width="562" alt="observer" src="https://github.com/rbfast/rbfast/assets/144961351/2be1ef2c-2889-445e-b4f4-fa67c7a9bc23">
 
